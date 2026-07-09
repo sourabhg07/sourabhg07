@@ -1,16 +1,238 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sourabhg07/sourabhg07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Sourabh Gupta
 
-Here are some ideas to get you started:
+### 💻 Data Analyst | Business Intelligence Enthusiast | AI & Machine Learning Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights.;Building+AI-Powered+Applications.;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning.;Always+Learning+Something+New!" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=sourabhg07&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/sourabhg07?label=Followers&style=social" />
+<img src="https://img.shields.io/github/stars/sourabhg07?style=social" />
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+🎓 Computer Science Graduate from Pune, India
+
+📊 Passionate about **Data Analytics, Business Intelligence, Artificial Intelligence, Machine Learning, and Full-Stack Development.**
+
+💡 I enjoy transforming complex data into actionable insights through interactive dashboards, predictive analytics, and intelligent AI-powered applications.
+
+🌱 Currently exploring
+
+- Agentic AI
+- Multi-Agent Systems
+- Advanced Power BI
+- Data Engineering
+- Cloud Technologies
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,postgres,mysql" />
+</p>
+
+### 📊 Data Analytics & BI
+
+<p>
+<img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
+
+- Power BI
+- Tableau
+- Microsoft Excel
+- DAX
+- Power Query
+- Data Visualization
+- KPI Reporting
+
+### 🤖 AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+- Pandas
+- NumPy
+- Scikit-learn
+- Predictive Analytics
+- Data Cleaning
+- Feature Engineering
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,fastapi,flask" />
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### ⚙ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,githubactions" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🌾 AgroVision — AI Powered Smart Farming Platform
+
+> **Python • FastAPI • React • CrewAI • Google Gemini • PostgreSQL • OCR**
+
+✨ Features
+
+- 🌱 AI Crop Recommendation
+- 📈 Weather Intelligence
+- 📊 Market Analysis
+- 📄 OCR Soil Health Card Analysis
+- 🤖 Multi-Agent AI System
+- 📉 Analytics Dashboard
+- 🏛 Government Scheme Recommendation
+
+🔗 Repository
+
+https://github.com/sourabhg07/AgroVision
+
+---
+
+## 📊 Mercedes-Benz Sales Analytics Dashboard
+
+> **Power BI • DAX • Power Query • Excel**
+
+✔ Executive Dashboard
+
+✔ Revenue Analysis
+
+✔ Profit Analysis
+
+✔ Sales KPI Tracking
+
+✔ Drill Through Reports
+
+✔ Regional Sales Insights
+
+---
+
+## 🩸 Blood Report Analysis Dashboard
+
+> **Python • OCR • Streamlit • React • PostgreSQL**
+
+✔ OCR Report Extraction
+
+✔ AI Health Insights
+
+✔ Interactive Dashboard
+
+✔ Health Trend Visualization
+
+✔ REST API Integration
+
+---
+
+## 🚀 Flask CI/CD Pipeline
+
+> **Flask • Docker • GitHub Actions • Pytest**
+
+✔ Dockerized Application
+
+✔ Automated Testing
+
+✔ GitHub Actions
+
+✔ CI/CD Workflow
+
+✔ Production Ready Deployment
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sourabhg07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhg07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sourabhg07&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Certifications
+
+🥇 Microsoft — Data Analysis & Visualization with Power BI
+
+🥇 Google — AI for Data Analysis
+
+🥇 Google — Ask Questions to Make Data-Driven Decisions
+
+🥇 Google Cloud — Agentic AI
+
+---
+
+# 🎯 Career Interests
+
+📊 Data Analytics
+
+📈 Business Intelligence
+
+🤖 Artificial Intelligence
+
+🧠 Machine Learning
+
+☁ Cloud Computing
+
+🚀 Full Stack Development
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sourabhg07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💡 Quote
+
+### *"Transforming Data into Decisions. Building AI that Creates Impact."*
+
+⭐ If you like my projects, consider giving them a Star!
+
+</div>
